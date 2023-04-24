@@ -11,7 +11,7 @@ export default function Cronometer(){
             <div className={style.relogioWrapper}>
                 <Clock/>
             </div>
-            <Button texto="Adicionar"/>
+            <Button texto="Iniciar!"/>
         </div>
 
     )
