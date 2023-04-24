@@ -1,3 +1,4 @@
+import Cronometer from '../components/Cronometer';
 import Form from '../components/Form';
 import List from '../components/List';
 import style from './App.module.scss';
@@ -8,6 +9,7 @@ function App() {
       
       <List />
       <Form />
+      <Cronometer/>
       
     </div>
   );
